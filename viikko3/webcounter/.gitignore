@@ -1,0 +1,5 @@
+src/__pycache__
+log.html
+output.xml
+selenium-screenshot-*.png
+report.html
